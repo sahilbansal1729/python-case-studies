@@ -3,5 +3,7 @@ I have done a course on **Foundations of Data Science** from [**PadhAI - One Fou
 Let's begin.
 
 I ll keep you posted. Keep visiting.
+
 CASE STUDY 1
+
 [NIFTY CASE STUDY](https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study.ipynb)
