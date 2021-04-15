@@ -4,7 +4,7 @@ I have done a course on **Foundations of Data Science** from [**PadhAI - One Fou
 I have taken problems from following courses while practicing and updating this repositry, 
 </h3>
 <ul>
-  <li> <a href = "https://padhai.onefourthlabs.in/>Foundations of Data Science-PadhAI - One Fourth Labs" target = "_blank"</a></li>
+  <li> <a href = "https://padhai.onefourthlabs.in" target = "_blank">Foundations of Data Science-PadhAI - One Fourth Labs</a></li>
   <li> <a href = https://www.udemy.com/course/complete-python-bootcamp/>2021 Complete Python Bootcamp From Zero to Hero in Python target = _blank</a></li>
 </ul>
 Let's begin.
