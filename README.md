@@ -5,9 +5,12 @@ Let's begin.
 I ll keep you posted. Keep visiting.
 
 <div>
-<ol>
-<li> [NIFTY Case Study](https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study.ipynb) </li>
-<li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/1.%20NIFTY%20Case%20Study.ipynb target = _blank>NIFTY Case Study</a> </li>
-<li> [NIFTY Case Study 2](https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study%202.ipynb) </li>
-</ol>
+  <ol>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/1.%20NIFTY%20Case%20Study.ipynb target = _blank>NIFTY Case Study</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/2.%20NIFTY%20Case%20Study%202.ipynb target = _blank>NIFTY Case Study 2</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/3.%20Function%20Practice%20Exercises.ipynb target = _blank>Functions Practice</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/4.%20Functions%20and%20Methods%20Homework.ipynb target = _blank>Functions and methods</a> </li>
+    
+  
+  </ol>
 </div>
