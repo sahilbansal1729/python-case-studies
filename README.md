@@ -19,7 +19,11 @@ I ll keep you posted. Keep visiting.
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/2.%20NIFTY%20Case%20Study%202.ipynb target = _blank>NIFTY Case Study 2</a> </li>
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/3.%20Function%20Practice%20Exercises.ipynb target = _blank>Functions Practice</a> </li>
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/4.%20Functions%20and%20Methods%20Homework.ipynb target = _blank>Functions and methods</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/5.%20TicTacToe.ipynb target = _blank>TicTacToe</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/5.%20TicTacToe.ipynb target = _blank>TicTacToe</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/6.%20Object%20Oriented%20Programming%20Homework.ipynb
+    target = _blank>Object oriented programming</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/7.%20Errors%20and%20Exceptions%20Homework.ipynb target = _blank>Errors and Exceptions</a> </li>
     
-  
   </ol>
 </div>
