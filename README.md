@@ -7,7 +7,7 @@ I ll keep you posted. Keep visiting.
 <div>
 <ol>
 <li> [NIFTY Case Study](https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study.ipynb) </li>
-
+<li> <a href = https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study.ipynb target = _blank>NIFTY Case Study</a> </li>
 <li> [NIFTY Case Study 2](https://github.com/sahilbansal1729/python-case-studies/blob/master/NIFTY%20Case%20Study%202.ipynb) </li>
 </ol>
 </div>
