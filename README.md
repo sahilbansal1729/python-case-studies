@@ -21,6 +21,7 @@ I ll keep you posted. Keep visiting.
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/5.%20TicTacToe.ipynb target = _blank>TicTacToe</a> </li>
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/6.%20Object%20Oriented%20Programming%20Homework.ipynb target = _blank>Object Oriented Programmming</a> </li>
     <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/7.%20Errors%20and%20Exceptions%20Homework.ipynb target = _blank>Errors and Exceptions</a> </li>
+    <li> <a href = https://github.com/sahilbansal1729/python-practice/blob/master/8.%20Numpy%20basics%20W3schools.ipynb target = _blank>8. Numpy basics W3schools</a> </li>
     
   </ol>
 </div>
