@@ -1,5 +1,12 @@
 # python practice
 I have done a course on **Foundations of Data Science** from [**PadhAI - One Fourth Labs**](https://padhai.onefourthlabs.in/). This repository has some problems and case studies from that course and will eventually add other also with detailed description. I highly recommend doing this course if you are beginner in this field.
+<h3>
+I have taken problems from following courses while practicing and updating this repositry, 
+</h3>
+<ul>
+  <li> <a href = https://padhai.onefourthlabs.in/>Foundations of Data Science-PadhAI - One Fourth Labs target = _blank</a></li>
+  <li> <a href = https://www.udemy.com/course/complete-python-bootcamp/>2021 Complete Python Bootcamp From Zero to Hero in Python target = _blank</a></li>
+</ul>
 Let's begin.
 
 I ll keep you posted. Keep visiting.
