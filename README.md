@@ -10,7 +10,7 @@ I have taken problems from following courses while practicing and updating this 
 </ul>
 Let's begin.
 
-I ll keep you posted. Keep visiting.
+I ll keep you updating this repositry. Keep visiting.
 
 <div>
   <ol>
