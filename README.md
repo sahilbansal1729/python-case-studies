@@ -2,7 +2,7 @@
 python_practice
 </h1>
 <h3>
-I have taken problems from following courses while practicing and updating this repositry: 
+I have taken problems from following courses while practicing and updating this repository: 
 </h3>
 <ul>
   <li> <a href = "https://padhai.onefourthlabs.in" target = "_blank">Foundations of Data Science-PadhAI - One Fourth Labs</a></li>
